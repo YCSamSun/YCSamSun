@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YCSamSun, of course, Sam.
 - 👀 I’m interested in robotics
-- 🌱 I’m currently learning control of hybrid stochastic systmes and something related to learning.
+- 🌱 I’m currently learning control of hybrid stochastic systems and something related to learning.
 - 📫 How to reach me yichongsun2020hit@126.com
 
 <!---
